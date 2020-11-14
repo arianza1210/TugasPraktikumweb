@@ -174,7 +174,7 @@
 			border-top: 1px solid rgba(242, 242, 242, 1);
 		}
 
-		.further h2:first-of-type {
+		du .further h2:first-of-type {
 			padding-top: 0;
 		}
 
